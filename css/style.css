@@ -15,7 +15,21 @@ h1{
 }
 .lob{
   font-family: 'Lobster Two', cursive;
+  font-size: 25px;
 }
 .rez{
   font-family: 'Oleo Script', cursive;
+}
+#lob1{
+  font-family: 'Lobster', cursive;
+}
+button{
+  border-radius: 25px;
+  color:white;
+  background-color: black;
+}
+input{
+  height: 35px;
+  width: 400px;
+
 }
