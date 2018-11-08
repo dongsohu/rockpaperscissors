@@ -7,3 +7,12 @@
   justify-content:space-between;
   
 }
+html{
+  background-image: linear-gradient(#FFB6C1, #D3D3D3);
+}
+h1{
+  font-family: 'Lobster', cursive;
+}
+.lob{
+  font-family: 'Lobster Two', cursive;
+}
